@@ -1,0 +1,8 @@
+c:\users\sahero\documents\visual studio 2012\Projects\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.csprojResolveAssemblyReference.cache
+c:\users\sahero\documents\visual studio 2012\Projects\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.InterestCalculator.resources
+c:\users\sahero\documents\visual studio 2012\Projects\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.Properties.Resources.resources
+c:\users\sahero\documents\visual studio 2012\Projects\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.csproj.GenerateResource.Cache
+c:\users\sahero\documents\visual studio 2012\Projects\Interest_Calculator\Interest_Calculator\bin\Debug\Interest_Calculator.exe
+c:\users\sahero\documents\visual studio 2012\Projects\Interest_Calculator\Interest_Calculator\bin\Debug\Interest_Calculator.pdb
+c:\users\sahero\documents\visual studio 2012\Projects\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.exe
+c:\users\sahero\documents\visual studio 2012\Projects\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.pdb
